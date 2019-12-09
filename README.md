@@ -1,2 +1,2 @@
-# scaredEyes_reactive
- Reactive visual I made in Processing
+# Scared Eyes - Reactive Version
+ Reactive visual I made in Processing.
