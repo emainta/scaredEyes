@@ -5,7 +5,8 @@ Reactive visual I made in Processing. Those visual we made for this [seminar](ht
 
 ## Video demo
 
-[![Video Demo](https://img.youtube.com/vi/nRbx6wI-P2M/0.jpg)](https://youtu.be/nRbx6wI-P2M)
+Click on the GIF below.
+[![click here](/readme_data/sample_eyes.gif)](https://youtu.be/nRbx6wI-P2M)
 
 ## Abstract (of the seminar)
 
