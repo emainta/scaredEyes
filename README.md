@@ -1,7 +1,7 @@
 # Scared Eyes - Reactive Version
 *Version 9.3*
 
-Reactive visual I made in Processing. Those visual we made for this (link) seminar, held in Politecnico di Milano on December 13th, 2019. The title of the seminar was **Percussions and emotions: an interactive performance**. 
+Reactive visual I made in Processing. Those visual we made for this [seminar](https://youtu.be/Q1229V8ANIc), held in Politecnico di Milano on December 13th, 2019. The title of the seminar was **Percussions and emotions: an interactive performance**. 
 
 ## Abstract (of the seminar)
 
@@ -31,7 +31,6 @@ Fear can also cause confusion. So audio triggers some elements of confusion on t
 
 
 # To do 
-- LINK YT OF THE PERFORMANCE
 - LINK YT TO A SAMPLE
 - GIF SAMPLE
 - COMPLETE README
