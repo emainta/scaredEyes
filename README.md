@@ -3,6 +3,10 @@
 
 Reactive visual I made in Processing. Those visual we made for this [seminar](https://youtu.be/Q1229V8ANIc), held in Politecnico di Milano on December 13th, 2019. The title of the seminar was **Percussions and emotions: an interactive performance**. 
 
+## Video demo
+
+[![Video Demo](https://img.youtube.com/vi/nRbx6wI-P2M/0.jpg)](https://youtu.be/nRbx6wI-P2M)
+
 ## Abstract (of the seminar)
 
 How can interactive technologies provide a contribute to enhance musical performances to convey emotions? The seminar is intended to offer a practical perspective on the conjunction between creative computing and musical performances. Vito Perrini and a group of students of the course of Creative Programming and Computing worked together to create a performance that will provide a contribute to the overall thinking raised by the question.
@@ -31,6 +35,5 @@ Fear can also cause confusion. So audio triggers some elements of confusion on t
 
 
 # To do 
-- LINK YT TO A SAMPLE
 - GIF SAMPLE
 - COMPLETE README
